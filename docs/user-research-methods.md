@@ -9,6 +9,15 @@ Alpha
 
 # One-on-One Interviews
 
+Behavioural interviews are open-ended interviews that focus on participants' behaviour. These interviews help uncover values, motivations, priorities, activities, and relationships about a particular service or experience. Interviews connect the research team with real people and they allow the team to investigate the underlying issues of a service that may not have been discovered through analytics or surveys.
+
+### Steps
+- Determine what topics you want to cover for your interview
+- Create an interview guide for your questions. Use this as a guide to help keep you on track and to make sure you can fit your questions into the available time.
+- Interview participants by exploring each topic using open-ended questions. Invite further explanation of interesting topics, anecdotes or other feelings. 
+- Record notes during the interview of exactly what the person is saying, not what you think they are saying. 
+- Provide the participant with a gift or stipend to thank them for their time.
+
 # Intercepts
 
 # Shadowing
