@@ -11,6 +11,13 @@ Alpha
 
 # Intercepts
 
+Intercept interviews are short interviews with users following a transaction. The interview aims to capture the user’s thoughts on a service while the interaction is still fresh in their mind. Intercept interviews take place in service settings, such as a Service BC Centre. Intercept interviews are a useful way of surveying the opinions of a broad sample of users in a short time. Researchers often ask all participants a set of standard open-ended questions.
+
+### Steps 
+– Think about sample size and ethics (consent forms, incentives, information sheets).
+- Choose an appropriate location (or locations) to conduct your intercept interviews and talk to the managers who run them.
+- Like one-on-one interivews, for intercept you’ll need an interview guide. Keep this concise – on average you might be taking 10 to 30 minutes of the participant’s time, so you don’t want too many questions.
+
 # Shadowing
 
 Shadowing and observation is about spending time observing a user in the context of their life at home or at work. Watching someone’s behaviour can surface new insights beyond what people say in an interview. Observation and shadowing can be followed up with an interview based on what was observed to dig deeper into their behaviour. 
